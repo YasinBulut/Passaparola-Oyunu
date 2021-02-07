@@ -1,0 +1,10 @@
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\bin\Debug\3_25-PROJE.exe.config
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\bin\Debug\3_25-PROJE.exe
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\bin\Debug\3_25-PROJE.pdb
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\3_25-PROJE.csprojAssemblyReference.cache
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\_3_25_PROJE.Form1.resources
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\_3_25_PROJE.Properties.Resources.resources
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\3_25-PROJE.csproj.GenerateResource.cache
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\3_25-PROJE.csproj.CoreCompileInputs.cache
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\3_25-PROJE.exe
+D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\25 Derste 25 Proje C#\PASSAPAROLA-OYUNU\3_25-PROJE\obj\Debug\3_25-PROJE.pdb
